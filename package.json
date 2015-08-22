@@ -1,0 +1,23 @@
+{
+  "name": "feiwan-transport-chain",
+  "version": "0.0.1",
+  "description": "Fei-Wen Transport Chain, or Fei-Wen in Taipei City, is an expriment on big data of human behavior in social network. Inspired by electron transport chain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "big-data",
+    "cloud-service",
+    "social-network",
+    "hack-into-the-city",
+    "iot"
+  ],
+  "author": "NTUOSC",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "sequelize": "^3.6.0",
+    "async": "^1.4.2"
+  }
+}
