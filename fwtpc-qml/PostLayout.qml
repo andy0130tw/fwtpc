@@ -23,10 +23,10 @@ Item {
     Text {
       anchors.bottomMargin: 12
       text: message
-      font.pixelSize: 18
+      font.pixelSize: 24
     }
     Text {
-      text: new Date(timestamp)
+      text: timestamp.toString()
       color: '#999'
       font.pixelSize: 10
     }

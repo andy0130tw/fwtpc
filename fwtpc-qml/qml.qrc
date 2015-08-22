@@ -4,5 +4,6 @@
         <file>material/PaperShadow.qml</file>
         <file>material/Card.qml</file>
         <file>PostLayout.qml</file>
+        <file>HttpRequestHelper.qml</file>
     </qresource>
 </RCC>
