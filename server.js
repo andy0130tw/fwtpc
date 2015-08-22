@@ -1,9 +1,9 @@
 
 var express = require('express');
-
 var lib = require('./lib');
-
 var app = express();
+
+app.use(lib);
 
 app.listen(8080, function(err, result) {
 	if (!err) {
