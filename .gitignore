@@ -31,3 +31,4 @@ node_modules
 *.sqlite
 *.swp
 
+fwtpc-qml/dist/
